@@ -1,10 +1,12 @@
-body{
+body {
     background-color: #1d2630;
 }
-*{
+
+* {
     color: #fff;
 }
+
 #cart-table td,
-#cart-table th{
+#cart-table th {
     text-align: center;
 }

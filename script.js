@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function () {
             <td>${password}</td>
             <td>${about}</td>
         `;
-        
+
         // Adding delete button to the row
         const deleteCell = document.createElement('td');
         const deleteIcon = document.createElement('i');
